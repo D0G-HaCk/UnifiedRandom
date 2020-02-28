@@ -1,0 +1,19 @@
+{
+  "name": "unifiedrandom",
+  "version": "1.0.0",
+  "description": "Random ported from C# to JS",
+  "main": "UnifiedRandom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "terraria",
+    "random",
+    "random",
+    "game",
+    "random",
+    "terraria"
+  ],
+  "author": "codeD0G",
+  "license": "ISC"
+}
